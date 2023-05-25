@@ -16,3 +16,4 @@
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
 # Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiobbraga&show_icons=true&theme=radical)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobbraga&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
